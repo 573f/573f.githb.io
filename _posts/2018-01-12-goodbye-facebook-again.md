@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+title: "Goodbye, Facebook. Again."
 ---
 # Goodbye, Facebook. Again.
 
