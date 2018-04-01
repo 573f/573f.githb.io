@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Goodbye, Facebook. Again."
+subtitle: "I mean it this time."
 ---
-# Goodbye, Facebook. Again.
-
 After I left Facebook the first time, it became necessary for me to re-join because Facebook was how my child’s school communicated with parents.
 
 It also allowed me to re-connect with family and friends who don’t seem to communicate in any other way.
